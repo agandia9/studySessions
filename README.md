@@ -2,8 +2,6 @@
 
 # README Pre-course
 
-## Desc:
-
 ### Temas Pre-curso / Skylab Coders<br>
 
 Bienvenidos al pre-curso de SkylabCoders, aquí encontraréis todos los enunciados, ejercicios y challenges que os servirán para aprender a dominar la estructura básica de Javascript, HTML y CSS. Comprendiendo y dominando con soltura estos fundamentos os resultará más fácil llegar al nivel de Javascript al que os llevaremos una vez empiece el curso.<br>
@@ -18,6 +16,8 @@ Así, los objetivos del pre-curso son:
 - Inculcar **buenas prácticas** en cuanto a código y organización del trabajo.
 
 (Tiempo estimado: 70 horas).
+
+Los antiguos alumnos han querido darte algunos consejos sobre lo que empieza con este precurso. Mira el vídeo [aquí](https://www.youtube.com/watch?v=ByBSPpA-Y_Y&list=PLjge_y_KBC8Gofv9UXhHM6s-PokIFdpkR&index=13).
 
 ## Index:
 
