@@ -4,7 +4,9 @@
 
 #### Reference:
 
-http://www.w3schools.com/js/js_objects.asp
+[Teoría de objetos](http://www.w3schools.com/js/js_objects.asp).
+
+[Video introductorio sobre objetos](https://www.youtube.com/watch?v=QgFCriyEQso&list=PLjge_y_KBC8Gofv9UXhHM6s-PokIFdpkR&index=4).
 
 *Simple JS Object for example.*
 
