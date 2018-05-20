@@ -39,7 +39,8 @@ Un loop nos sirve para iterar tantas veces como queramos y aplicar la misma lóg
 En javascript hay 3 tipos de loops básicos:
 
 **for**  
-El bucle for lo utilizaremos cuando tengamos que repetir alguna lógica un numero **determinado** de veces.
+El bucle for lo utilizaremos cuando tengamos que repetir alguna lógica un numero **determinado** de veces. Empezamos declarando una variable "índice" (var i=0), creamos una condición que comprobamos en cada iteración (si i es menor que 10, ejecuta el código) y definimos qué hacer después de ejecutar las órdenes (súmale 1 a i... y vuelve a comprobar si la condición se cumple).
+
 ```javascript
 for(var i=0;i<10;i++){
     //code here
