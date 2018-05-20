@@ -101,31 +101,31 @@ if (a<b) {
 
 **Exercises:** // faltan 5
 
-a) Declara tu nombre y muéstralo por consola: 
+a) Crea una variable llamada _name_ que contenga tu nombre y muéstralo por consola: 
 
 ```javascript
 console.log(name) //Mark
 ```
 
-b) Declara tu edad y muéstralo por consola:
+b) Haz lo mismo con tu edad y muéstralo por consola:
 
 ```javascript
 console.log(age) //38
 ```
 
-c) Declara tu nombre, tu apellido y tu edad en un array en diferentes posiciones y muéstrala por consola:
+c) Crea un array llamado _infoArray_ que contenga tu nombre, tu apellido y tu edad en diferentes posiciones y muéstra el array por consola:
 
 ```javascript
-console.log(info) //['Mark', 'Zuckerberg', 21]
+console.log(infoArray) // ['Mark', 'Zuckerberg', 21]
 ```
 
-d) Declara tu nombre y tu edad dentro de un objeto y muéstralo por consola:
+d) Declara tu nombre y tu edad dentro de un objeto llamado _infoObject_ y muéstralo por consola:
 
 ```javascript
-console.log(data) //{ name: 'Mark', age: 21}
+console.log(infoObject) // { name: 'Mark', age: 21}
 ```
 
-e) Ahora utiliza el array que has creado anteriormente para recorrerlo y mostrar una a una todas las posiciones del array.
+e) Ahora utiliza el array que has creado anteriormente para recorrerlo con un _for_ y mostrar una a una todas las posiciones del array (como hiciste para mostrar cada uno de los Beatles en la prueba de acceso).
 
 ```javascript
  //'Mark'
@@ -144,6 +144,7 @@ if( a < b) ...
 ```
 
 f1) Crea otra condicion else if para contemplar la posibilidad de que los dos números sean iguales:
+
 ```javascript
 var a = 25
 var b = 12
@@ -152,6 +153,7 @@ else if(...)
 ```
 
 g) Crea una array de 5 numeros, y recorrela, mostrando además un mensaje cuando, esté a la mitad, muestre un mensaje 'We are in the middle of loop'.
+
 ```javascript
 for(...){
     if(...){"We are in the middle of loop"}
@@ -175,4 +177,3 @@ for(...){
     if(...){"We find your data!" + data[...]}
 }
 ```
-
