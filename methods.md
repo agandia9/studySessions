@@ -22,7 +22,7 @@ console.log(text)
 
 ```
 
-Estos ejercicios se deberán hacer exclusivamente usando **METODOS**
+Los siguientes ejercicios se deberán hacer exclusivamente usando **METODOS**
 
 ---
 
@@ -35,7 +35,7 @@ console.log(myName) // My Name has 4 letters
 ```
 **Check this to know how to use Google to solve your doubts:** http://bfy.tw/AlDi 👈🏼
 
-b) Añade tu apellido e indica en que posición del string empieza (prueba a buscar el espacio entre el nombre y el apellido):
+b) Añade tu apellido e indica en que posición del string empieza (prueba a buscar en qué posición se encuentra el espacio entre el nombre y el apellido):
 
 ```javascript
 console.log(myString)// Your last name starts on position 5
@@ -47,13 +47,13 @@ c) Ahora, con tu apellido y nombre en la misma variable, muestra solo el nombre 
 console.log(myString) // My Name is Tony 
 ```
  
-d) Ahora, solo tu apellido.
+d) Ahora, solo tu apellido (lo que haya después del espacio).
 
 ```javascript
 console.log(myString) // My lastname is Stark
 ```
 
-d1) Iguala el resultado a una variable nueva e imprímela por pantalla.
+d1) Iguala el resultado del ejercicio anterior a una variable nueva llamada _myNewString_ e imprímela por pantalla.
 
 ```javascript
 console.log(myFirstString +", " + myNewString) // Tony Stark, Stark
@@ -68,18 +68,18 @@ console.log(myNewString) // Hello, Mr. Stark
 f) Selecciona tu apellido y transfórmalo a MAYÚSCULAS.
 
 ```javascript
-console.log(mySelection) // my lastname is STARK
+console.log(mySelection) // My lastname is STARK
 ```
 
 g) Ahora declara una variable nueva e igualala a la anterior variable sumándole, además, un mensaje.
 
 ```javascript
 var something = myFirstString + "is awesome"
-console.log(something) \\ "Tony is awesome"
+console.log(something) // "Tony is awesome"
 
 ```
 
-h) Ahora, puedes seleccionar la inicial de tu nombre y apellido y mostrarlas por pantalla?
+h) Ahora, ¿puedes seleccionar la inicial de tu nombre y apellido y mostrarlas por pantalla?
 
 ```javascript
 console.log(myFirstLastnameLetters) // S.Y
@@ -94,7 +94,7 @@ a) Declara tu nombre completo en una array y muéstralo por pantalla separando c
 console.log(myName) // T/O/N/Y/S/T/A/R/K
 ```
 
-b) Ahora solo selecciona tu apellido y muestra cada letra separada por "|"
+b) Ahora selecciona solo tu apellido y muestra cada letra separada por "|"
 
 ```javascript
 console.log(myName) // S|T|A|R|K
@@ -129,7 +129,7 @@ Muestra por pantalla solo tu nombre y tu edad en un solo mensaje.
 console.log(mySelector) // My name is TONY and i'm 40 years old
 ```
 
-g) Prepara una función para añadir tu City a la array, muestra un mensaje mostrando el contenido de toda la array, así aseguraremos los cambios.
+g) Prepara una función para añadir tu City a la array que termine con un mensaje que muestre el contenido de toda la array para asegurar que ha realizado los cambios en la array.
 
 ```javascript
 console.log(myCityAdd) // City added to array! => Tony, Stark, 40, New York
