@@ -2,7 +2,8 @@
 
 ## Methods
 
-http://www.w3schools.com/js/functions.asp
+[Teoría de métodos y funciones](http://www.w3schools.com/js/functions.asp).
+[Vídeo sobre métodos y funciones](https://www.youtube.com/watch?v=wmNsai9rKJE&list=PLjge_y_KBC8Gofv9UXhHM6s-PokIFdpkR&index=3).
 
 *Simple JS Methods for example.*
 
