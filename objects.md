@@ -53,7 +53,7 @@ e) Añade una nueva propiedad, por ejemplo **city** y dale un valor.
 
 http://www.w3schools.com/js/js_properties.asp
 
-e1) Asegura los cambios solo imprimiendo esa nueva propiedad.
+e1) Asegura que has realizado los cambios con un _console.log_ solo imprimiendo esa nueva propiedad.
 ```javascript
 console.log(city) // City => New York City
 ```
